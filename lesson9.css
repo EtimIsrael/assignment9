@@ -1,0 +1,158 @@
+body{
+  background-color: black;
+}
+
+.red-square{
+  background-color: red;
+  width: 50px;
+  height: 50px;
+}
+
+.green-circle{
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.satisfied-service{
+  font-family: Arial;
+  background-color: white;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 1px;
+  width: 200px;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.install-youtube{
+  background-color: rgb(27, 27, 27);
+  width: 300px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-top: 1px;
+  
+}
+.install{
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.add{
+  font-size: 14px;
+  color: rgb(189, 186, 186);
+}
+
+.chat{
+  background-color: white;
+  width: 400px;
+  padding-left: 10px;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+.picture{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.text-t{
+  font-size: 18px;
+  border: none;
+  width: 250px;
+  vertical-align: middle;
+}
+.tweet-button{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.recreate-design{
+  background-color: white;
+  width: 170px;
+  padding-left: 10px;
+  font-family: Arial;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.organ-image{
+  width: 150px;
+  height: 150px;
+}
+.oliver{
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+.mutual{
+  font-size: 12px;
+  margin-top: 3px;
+  margin-bottom: 1px;
+}
+.add-button{
+  background-color: rgb(24, 119, 242);
+  border: none;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  width: 90px;
+  margin-top: 5px;
+}
+
+
+
+.recreate-div{
+  background-color: rgb(212, 203, 203);
+  width: 170px;
+  padding-left: 10px;
+  font-family: Arial;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+  margin-top: 20px;
+}
+.trumpet{
+  width: 150px;
+  height: 150px;
+}
+.otu{
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+.cornet{
+  width: 150px;
+  height: 150px;
+}
+.john{
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+.clarinet{
+  width: 150px;
+  height: 150px;
+}
+.moses{
+  font-weight: bold;
+  margin-bottom: 1px;
+}
